@@ -1,6 +1,6 @@
-# Machine Learning Projects
+# Fruit recognition system
 
-Welcome to the Machine Learning Projects repository! This collection showcases various machine learning projects I've worked on, encompassing a range of domains and techniques.
+This project is an image classification system that can automatically recognize and categorize images into multiple classes. It works by taking a pre-trained deep learning model and running it against a collection of test images to evaluate how well it performs. The system processes thousands of images, predicts what category each one belongs to, and then measures how accurate those predictions are. It also produces a visual heatmap showing exactly where the model got things right and where it got confused between different categories — making it easy to spot patterns in the mistakes.
 
 ## Projects
 
